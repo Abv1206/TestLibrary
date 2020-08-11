@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">TestLibrary</string>
+    <string name="service_not_available">Service not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude longitude</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_found">Address found</string>
+    <string name="no_location">No location</string>
+    <string name="gps_error">Error tracking location</string>
+    <string name="enable_loc">Enable location</string>
+    <string name="enable_loc_desc">Please, enable location settings to use GPS tracking.</string>
+    <string name="loc_settings">Location settings</string>
+    <string name="cancel">Cancel</string>
 </resources>
