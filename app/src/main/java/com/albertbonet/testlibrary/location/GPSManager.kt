@@ -1,4 +1,4 @@
-package com.atlabs.bigvan.Location
+package com.albertbonet.testlibrary.location
 
 import android.Manifest
 import android.annotation.SuppressLint
@@ -16,7 +16,6 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import com.albertbonet.testlibrary.R
-import com.albertbonet.testlibrary.location.GPSInterface
 import com.google.android.gms.common.ConnectionResult
 import com.google.android.gms.common.api.GoogleApiClient
 import com.google.android.gms.location.LocationRequest
